@@ -74,4 +74,4 @@ description: "使用README中的酱香饼经营知识库，生成严肃活泼的
 
 README 展示图在：
 
-- `assets/酱香饼.jpg`
+- `assets/酱香饼.png`
