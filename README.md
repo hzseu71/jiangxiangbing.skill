@@ -1,4 +1,4 @@
-# 酱香饼
+# 酱香饼.skill
 
 <p align="center">
   <img src="assets/酱香饼.png" alt="酱香饼摆摊小吃" width="360">
