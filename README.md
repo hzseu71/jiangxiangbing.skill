@@ -1,6 +1,8 @@
 # 酱香饼
 
-![酱香饼摆摊小吃](assets/酱香饼.png)
+<p align="center">
+  <img src="assets/酱香饼.jpg" alt="酱香饼摆摊小吃" width="360">
+</p>
 
 > 计算机专业和酱香饼制作哪个更权威？  
 > 与其敲代码不如摆摊卖酱香饼！  
@@ -193,7 +195,7 @@ Use $jiangxiangbing-skill 帮我做一个 3000 元预算的酱香饼摆摊方案
 ├── agents/
 │   └── openai.yaml
 └── assets/
-    └── 酱香饼.png
+    └── 酱香饼.jpg
 ```
 
 ## 默认气质

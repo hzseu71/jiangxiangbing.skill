@@ -1,8 +1,8 @@
 interface:
   display_name: "酱香饼"
   short_description: "严肃活泼地规划酱香饼配方、出摊、定价、营销与合规"
-  icon_small: "./assets/酱香饼.png"
-  icon_large: "./assets/酱香饼.png"
+  icon_small: "./assets/酱香饼.jpg"
+  icon_large: "./assets/酱香饼.jpg"
   brand_color: "#D32213"
   default_prompt: "Use $jiangxiangbing-skill 帮我设计一个能试卖、能复盘的酱香饼摆摊方案。"
 
